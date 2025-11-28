@@ -3,7 +3,7 @@
 Este é um **sistema bancário simples**, desenvolvido em Python como parte do **Lab Project** do Bootcamp.  
 O objetivo é simular operações bancárias básicas, permitindo depósitos, saques, consulta de extrato e encerramento da aplicação, de forma prática e didática.
 
-O projeto é ótimo para quem está começando a aprender Python, praticando lógica, condicionais, loops e manipulação de dados.
+O projeto é ótimo para quem está começando a aprender Python, praticando lógica, condicionais, loops e manipulação de dados em Python.
 
 ## 📌 Funcionalidades
 
